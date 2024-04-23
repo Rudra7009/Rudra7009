@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rudra Pratap Singh and I'm a Junior AI Engineer, from Greater Noida, India</p>
+<p align="left">My name is <b> Rudra Pratap Singh </b> and I'm a <b>Junior AI Engineer</b>, from Greater Noida, India</p>
 
 ###
 
