@@ -1,3 +1,9 @@
+###
+<div align="center">
+  <img style="max-height: 200px; width: auto;" src="Rudra Pratap Singh.jpg" alt="Rudra Pratap Singh" />
+</div>
+
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
