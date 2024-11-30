@@ -1,43 +1,103 @@
-###
+# 🚀 Rudra Pratap Singh 
+
+## <p align="center">📰 TECH INSIGHTS & PROFESSIONAL JOURNEY NEWSLETTER</p>
+
+---
+
+### 🌟 **HEADLINE: Junior AI Engineer Redefining Technological Frontiers**
+
+#### 📍 **Location **: Greater Noida, India
+#### 🕒 **Career Stage**: Emerging Tech Innovator
+
+---
+
+## 💡 **MISSION STATEMENT**
+
+> "*Code is not just syntax, it's a canvas of innovation. Each line is a brushstroke of potential waiting to transform the world.*"
+
+---
+
+## 🔬 **PROFESSIONAL ARSENAL**
+
+### 🏆 **Core Competencies**
+- **AI Engineering**
+- **Multi-Language Programming**
+- **Cloud Infrastructure Development**
+- **Data Science Fundamentals**
+
+### 🛠 **Technology Ecosystem**
+
+#### Programming Languages Mastery
+| Tier | Languages | Proficiency |
+|:----:|:---------:|:------------:|
+| 🥇 PRIMARY | Python, Java | ██████████ 100% |
+| 🥈 SECONDARY | JavaScript, Swift | ████████ 80% |
+| 🥉 EMERGING | Kotlin, Objective-C | ███████ 70% |
+
+### 🌐 **Tech Stack Visualization**
+
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 **PERFORMANCE METRICS**
+
 <div align="center">
-  <img style="max-height: 200px; width: auto;" src="Rudra Pratap Singh.jpg" alt="Rudra Pratap Singh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra7009&theme=radical&hide_border=true" alt="Streak Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra7009&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
 </div>
 
+---
 
-<h1 align="left">Hey 👋 What's up?</h1>
+## 🔍 **CURRENT LEARNING TRAJECTORY**
 
-###
+### 🎯 **Focus Areas**
+- **✅ Deep Dive into Java**
+- **✅ Advanced AI Engineering Techniques**
+- **✅ Cloud Infrastructure Optimization**
 
-<p align="left">My name is <b> Rudra Pratap Singh </b> and I'm a <b>Junior AI Engineer</b>, from Greater Noida, India</p>
+---
 
-###
+## 🌐 **GLOBAL CONNECTIVITY**
 
-<h2 align="left">About me</h2>
+### 📡 **Professional Networks**
 
-###
-
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Java.<br></p>
-
-# Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Rudra7009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rudra7009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra7009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# My Socials
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/rudrapratap7009/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="https://www.instagram.com/rudra__pratap__06" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-Personal_Insights-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="singh.rudrapratap8585@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  
+  <a href="mailto:singh.rudrapratap8585@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Rudra7009&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## 💌 **QUICK CONTACT DIGEST**
+
+- **📧 Professional Email**: singh.rudrapratap8585@gmail.com
+- **🌐 LinkedIn**: @rudrapratap7009
+- **📸 Instagram**: @rudra__pratap__06
+
+---
+
+## 🌟 **PROFILE ENGAGEMENT**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rudra7009&style=for-the-badge&color=blueviolet)
+
+---
+
+*<p align="center">🚀 Transforming Code into Extraordinary Solutions 💡</p>*
+
+---
+
+### 📢 **DISCLAIMER**
+*This profile is a dynamic representation of my professional journey. Content subject to continuous evolution and innovation.*
