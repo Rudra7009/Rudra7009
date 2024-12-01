@@ -6,7 +6,7 @@
 
 ### 🌟 **HEADLINE: Junior AI Engineer Redefining Technological Frontiers**
 
-#### 📍 **Location **: Greater Noida, India
+#### 📍 **Location**: Greater Noida, India
 #### 🕒 **Career Stage**: Emerging Tech Innovator
 
 ---
