@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=900&section=header"/>
 </p>
+
 # 🚀 Rudra Pratap Singh 
 
 ## <p align="center">📰 TECH INSIGHTS & PROFESSIONAL JOURNEY NEWSLETTER</p>
