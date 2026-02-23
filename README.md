@@ -1,30 +1,65 @@
 ![header](Trilokia.svg)
 
-<p align="center">
-Whatever I build, I build with clarity.  
-Structured systems. Scalable thinking.  
-Technology that solves real problems.
-</p>
+![typing](typing_intro.svg)
+
+<br>
 
 ![divider](divider.svg)
 
-## Stack
+# Rudra Pratap
 
-`Python` `Java` `C`  
-`HTML` `CSS` `JavaScript`  
-`Swift` `Kotlin`  
-`AWS` `Firebase` `SQL`
+I build systems that are structured before they are scaled.
 
-![divider](divider.svg)
-
-## Selected Work
-
-**Resume Screener** — AI ranking engine  
-**UniQR** — QR attendance system  
-**Punah** — Marketplace platform  
+I am not interested in noise.
+I am interested in clarity.
+Architecture over aesthetics.
+Signal over volume.
 
 ![divider](divider.svg)
 
-## Connect
+## Philosophy
 
-Portfolio • LinkedIn • GitHub
+Most software collapses under its own complexity.
+
+I design for inevitability —
+systems that remain stable when pressure increases,
+code that reads like intent,
+structure that outlives trends.
+
+![divider](divider.svg)
+## Focus Areas
+
+Artificial Intelligence  
+Distributed Systems  
+System Design  
+Mobile & Cross-Platform Architecture  
+
+![divider](divider.svg)
+
+## Current Direction
+
+• Building intelligence-driven tools  
+• Exploring scalable system patterns  
+• Designing with long-term structure in mind  
+
+![divider](divider.svg)
+
+## Operating Principles
+
+Precision > Hype  
+Depth > Speed  
+Understanding > Imitation  
+
+![divider](divider.svg)
+
+## Contact
+
+LinkedIn  
+Portfolio  
+Email  
+
+![divider](divider.svg)
+
+> Intelligence is quiet.
+
+![bottom_header](bottom_header.svg)
