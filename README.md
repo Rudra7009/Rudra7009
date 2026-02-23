@@ -1,4 +1,4 @@
-![Rudra Pratap](https://raw.githubusercontent.com/Rudra7009/Rudra7009/main/trilokia.svg)
+![Rudra Pratap](https://raw.githubusercontent.com/Rudra7009/Rudra7009/main/Trilokia.svg)
 
 <p align="center">
 Whatever I build, I build with precision, Takes work ethics very seriously, Loves solving complex problems, Leads with clarity, Helps people grow and constantly looks for innovating solutions that improve lives
