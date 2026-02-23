@@ -6,8 +6,8 @@ Whatever I build, I build with precision, Takes work ethics very seriously, Love
   · <a href="https://www.rudrafolio.com">Portfolio</a>
  · 
 <br>
-<a href="https://github.com/Rudra7009">Full Stack Developer @Rudra7009</a>
-| <a href="https://www.rudrafolio.com">Personal Website</a>
+<a href="https://github.com/Rudra7009">Full Stack Developer</a>
+| <a href="https://rudra-verse.vercel.app/">Personal Website</a>
 <br>
  <p align="center">
  <a href="https://github.com/Rudra7009"><img src="https://img.shields.io/github/followers/Rudra7009?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
