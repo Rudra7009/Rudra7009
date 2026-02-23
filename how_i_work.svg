@@ -1,0 +1,82 @@
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="spaceBg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%"   stop-color="#050d1a"/>
+      <stop offset="60%"  stop-color="#020810"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="edgeFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4C6FFF" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#4C6FFF" stop-opacity="0.35"/>
+      <stop offset="50%"  stop-color="#4C6FFF" stop-opacity="0.65"/>
+      <stop offset="80%"  stop-color="#4C6FFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4C6FFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="leftGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4C6FFF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#4C6FFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow3">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow6">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="starGlow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+<style>
+  @keyframes pulse { 0%,100%{opacity:0.3} 50%{opacity:1} }
+</style>
+  <rect width="1200" height="200" fill="url(#spaceBg)"/>
+  <rect x="0" y="0" width="3" height="200" fill="url(#leftGlow)" filter="url(#glow3)"/>
+  <rect x="0" y="0" width="1200" height="0.75" fill="url(#edgeFade)" opacity="0.2"/>
+  <rect x="0" y="199" width="1200" height="0.75" fill="url(#edgeFade)" opacity="0.2"/>
+  
+  <rect x="0" y="10" width="1200" height="36" fill="#4C6FFF" opacity="0.03"/>
+  <rect x="0" y="45" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <circle cx="38" cy="28" r="3" fill="#4C6FFF" opacity="0.7" style="animation:pulse 3s 0.0s ease-in-out infinite"/>
+  <circle cx="38" cy="28" r="6" fill="#4C6FFF" opacity="0.08"/>
+  <text x="62" y="32" font-family="'Segoe UI',sans-serif" font-size="10.5"
+        letter-spacing="1.5" fill="#4C6FFF" opacity="0.55">01</text>
+  <text x="96" y="32" font-family="'Segoe UI',sans-serif" font-size="12"
+        letter-spacing="0.5" fill="#9BA3C7">Understand the constraint before touching the code</text>
+  <rect x="0" y="46" width="1200" height="36" fill="#4C6FFF" opacity="0"/>
+  <rect x="0" y="81" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <circle cx="38" cy="64" r="3" fill="#4C6FFF" opacity="0.7" style="animation:pulse 3s 0.4s ease-in-out infinite"/>
+  <circle cx="38" cy="64" r="6" fill="#4C6FFF" opacity="0.08"/>
+  <text x="62" y="68" font-family="'Segoe UI',sans-serif" font-size="10.5"
+        letter-spacing="1.5" fill="#4C6FFF" opacity="0.55">02</text>
+  <text x="96" y="68" font-family="'Segoe UI',sans-serif" font-size="12"
+        letter-spacing="0.5" fill="#9BA3C7">Design the boundary before building the service</text>
+  <rect x="0" y="82" width="1200" height="36" fill="#4C6FFF" opacity="0.03"/>
+  <rect x="0" y="117" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <circle cx="38" cy="100" r="3" fill="#4C6FFF" opacity="0.7" style="animation:pulse 3s 0.8s ease-in-out infinite"/>
+  <circle cx="38" cy="100" r="6" fill="#4C6FFF" opacity="0.08"/>
+  <text x="62" y="104" font-family="'Segoe UI',sans-serif" font-size="10.5"
+        letter-spacing="1.5" fill="#4C6FFF" opacity="0.55">03</text>
+  <text x="96" y="104" font-family="'Segoe UI',sans-serif" font-size="12"
+        letter-spacing="0.5" fill="#9BA3C7">Instrument everything — observability is not optional</text>
+  <rect x="0" y="118" width="1200" height="36" fill="#4C6FFF" opacity="0"/>
+  <rect x="0" y="153" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <circle cx="38" cy="136" r="3" fill="#4C6FFF" opacity="0.7" style="animation:pulse 3s 1.2000000000000002s ease-in-out infinite"/>
+  <circle cx="38" cy="136" r="6" fill="#4C6FFF" opacity="0.08"/>
+  <text x="62" y="140" font-family="'Segoe UI',sans-serif" font-size="10.5"
+        letter-spacing="1.5" fill="#4C6FFF" opacity="0.55">04</text>
+  <text x="96" y="140" font-family="'Segoe UI',sans-serif" font-size="12"
+        letter-spacing="0.5" fill="#9BA3C7">Write code the next engineer can read on day one</text>
+  <rect x="0" y="154" width="1200" height="36" fill="#4C6FFF" opacity="0.03"/>
+  <rect x="0" y="189" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <circle cx="38" cy="172" r="3" fill="#4C6FFF" opacity="0.7" style="animation:pulse 3s 1.6s ease-in-out infinite"/>
+  <circle cx="38" cy="172" r="6" fill="#4C6FFF" opacity="0.08"/>
+  <text x="62" y="176" font-family="'Segoe UI',sans-serif" font-size="10.5"
+        letter-spacing="1.5" fill="#4C6FFF" opacity="0.55">05</text>
+  <text x="96" y="176" font-family="'Segoe UI',sans-serif" font-size="12"
+        letter-spacing="0.5" fill="#9BA3C7">Build for the system two years from now</text>
+</svg>

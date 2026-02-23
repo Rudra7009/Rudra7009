@@ -1,0 +1,36 @@
+<svg width="100%" height="58" viewBox="0 0 1200 58" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="spaceBg" cx="50%" cy="40%" r="70%"><stop offset="0%" stop-color="#050d1a"/><stop offset="100%" stop-color="#000000"/></radialGradient>
+<filter id="glow3"><feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="58" fill="url(#spaceBg)"/>
+<style>@keyframes breathe{0%,100%{opacity:0.45}50%{opacity:0.9}}</style>
+<rect x="137" y="11" width="122" height="36" rx="5" fill="#4C6FFF" opacity="0.06" filter="url(#glow3)"/>
+<rect x="138" y="12" width="120" height="34" rx="4" fill="#050d1a" stroke="#4C6FFF" stroke-width="0.75" stroke-opacity="0.45"/>
+<rect x="138" y="12" width="2.5" height="34" rx="1" fill="#4C6FFF" opacity="0.5"/>
+<text x="201" y="34" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#9BA3C7" text-anchor="middle" letter-spacing="1">React</text>
+<rect x="271" y="11" width="122" height="36" rx="5" fill="#4C6FFF" opacity="0.06" filter="url(#glow3)"/>
+<rect x="272" y="12" width="120" height="34" rx="4" fill="#050d1a" stroke="#4C6FFF" stroke-width="0.75" stroke-opacity="0.45"/>
+<rect x="272" y="12" width="2.5" height="34" rx="1" fill="#4C6FFF" opacity="0.5"/>
+<text x="335" y="34" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#9BA3C7" text-anchor="middle" letter-spacing="1">Next.js</text>
+<rect x="405" y="11" width="122" height="36" rx="5" fill="#4C6FFF" opacity="0.06" filter="url(#glow3)"/>
+<rect x="406" y="12" width="120" height="34" rx="4" fill="#050d1a" stroke="#4C6FFF" stroke-width="0.75" stroke-opacity="0.45"/>
+<rect x="406" y="12" width="2.5" height="34" rx="1" fill="#4C6FFF" opacity="0.5"/>
+<text x="469" y="34" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#9BA3C7" text-anchor="middle" letter-spacing="1">Docker</text>
+<rect x="539" y="11" width="122" height="36" rx="5" fill="#4C6FFF" opacity="0.06" filter="url(#glow3)"/>
+<rect x="540" y="12" width="120" height="34" rx="4" fill="#050d1a" stroke="#4C6FFF" stroke-width="0.75" stroke-opacity="0.45"/>
+<rect x="540" y="12" width="2.5" height="34" rx="1" fill="#4C6FFF" opacity="0.5"/>
+<text x="603" y="34" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#9BA3C7" text-anchor="middle" letter-spacing="1">AWS</text>
+<rect x="673" y="11" width="122" height="36" rx="5" fill="#4C6FFF" opacity="0.06" filter="url(#glow3)"/>
+<rect x="674" y="12" width="120" height="34" rx="4" fill="#050d1a" stroke="#4C6FFF" stroke-width="0.75" stroke-opacity="0.45"/>
+<rect x="674" y="12" width="2.5" height="34" rx="1" fill="#4C6FFF" opacity="0.5"/>
+<text x="737" y="34" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#9BA3C7" text-anchor="middle" letter-spacing="1">Firebase</text>
+<rect x="807" y="11" width="122" height="36" rx="5" fill="#4C6FFF" opacity="0.06" filter="url(#glow3)"/>
+<rect x="808" y="12" width="120" height="34" rx="4" fill="#050d1a" stroke="#4C6FFF" stroke-width="0.75" stroke-opacity="0.45"/>
+<rect x="808" y="12" width="2.5" height="34" rx="1" fill="#4C6FFF" opacity="0.5"/>
+<text x="871" y="34" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#9BA3C7" text-anchor="middle" letter-spacing="1">GitHub</text>
+<rect x="941" y="11" width="122" height="36" rx="5" fill="#4C6FFF" opacity="0.06" filter="url(#glow3)"/>
+<rect x="942" y="12" width="120" height="34" rx="4" fill="#050d1a" stroke="#4C6FFF" stroke-width="0.75" stroke-opacity="0.45"/>
+<rect x="942" y="12" width="2.5" height="34" rx="1" fill="#4C6FFF" opacity="0.5"/>
+<text x="1005" y="34" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#9BA3C7" text-anchor="middle" letter-spacing="1">NLP</text>
+</svg>

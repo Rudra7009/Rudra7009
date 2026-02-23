@@ -1,0 +1,64 @@
+<svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="spaceBg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%"   stop-color="#050d1a"/>
+      <stop offset="60%"  stop-color="#020810"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="edgeFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4C6FFF" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#4C6FFF" stop-opacity="0.35"/>
+      <stop offset="50%"  stop-color="#4C6FFF" stop-opacity="0.65"/>
+      <stop offset="80%"  stop-color="#4C6FFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4C6FFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="leftGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4C6FFF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#4C6FFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow3">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow6">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="starGlow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#spaceBg)"/>
+  <rect x="1197" y="0" width="3" height="160" fill="#4C6FFF" opacity="0.5" filter="url(#glow3)"/>
+  <rect x="0" y="0" width="1200" height="0.75" fill="url(#edgeFade)" opacity="0.2"/>
+  <rect x="0" y="159" width="1200" height="0.75" fill="url(#edgeFade)" opacity="0.2"/>
+  <rect x="160" y="0" width="0.5" height="160" fill="#4C6FFF" opacity="0.1"/>
+  
+  <rect x="0" y="12" width="1200" height="34" fill="#4C6FFF" opacity="0.03"/>
+  <rect x="0" y="45" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <text x="24" y="33" font-family="'Segoe UI',sans-serif" font-size="10"
+        letter-spacing="2" fill="#4C6FFF" opacity="0.6">type</text>
+  <text x="180" y="33" font-family="'Segoe UI',sans-serif" font-size="12"
+        fill="#9BA3C7">freelance engagements</text>
+  <rect x="0" y="46" width="1200" height="34" fill="#4C6FFF" opacity="0"/>
+  <rect x="0" y="79" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <text x="24" y="67" font-family="'Segoe UI',sans-serif" font-size="10"
+        letter-spacing="2" fill="#4C6FFF" opacity="0.6">scope</text>
+  <text x="180" y="67" font-family="'Segoe UI',sans-serif" font-size="12"
+        fill="#9BA3C7">architecture reviews  ·  greenfield builds  ·  system migrations</text>
+  <rect x="0" y="80" width="1200" height="34" fill="#4C6FFF" opacity="0.03"/>
+  <rect x="0" y="113" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <text x="24" y="101" font-family="'Segoe UI',sans-serif" font-size="10"
+        letter-spacing="2" fill="#4C6FFF" opacity="0.6">focus</text>
+  <text x="180" y="101" font-family="'Segoe UI',sans-serif" font-size="12"
+        fill="#9BA3C7">distributed systems  ·  AI infrastructure  ·  real-time backends</text>
+  <rect x="0" y="114" width="1200" height="34" fill="#4C6FFF" opacity="0"/>
+  <rect x="0" y="147" width="1200" height="0.4" fill="#4C6FFF" opacity="0.07"/>
+  <text x="24" y="135" font-family="'Segoe UI',sans-serif" font-size="10"
+        letter-spacing="2" fill="#4C6FFF" opacity="0.6">status</text>
+  <text x="180" y="135" font-family="'Segoe UI',sans-serif" font-size="12"
+        fill="#4dbb7a">● open</text>
+</svg>
