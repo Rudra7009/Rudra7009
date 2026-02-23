@@ -1,109 +1,120 @@
-<svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
+<style>
+  .stars circle {
+    animation: drift linear infinite;
+  }
 
-    <!-- Dark Cinematic Background -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b0b12"/>
-      <stop offset="50%" stop-color="#14141d"/>
-      <stop offset="100%" stop-color="#08080d"/>
-    </linearGradient>
+  @keyframes drift {
+    from { transform: translateY(0px); }
+    to { transform: translateY(300px); }
+  }
 
-    <!-- Soft Ambient Glow -->
-    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0.08)"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </radialGradient>
+  .signature {
+    font-family: "Brush Script MT", "Segoe Script", cursive;
+    font-weight: 400;
+    letter-spacing: 3px;
+  }
 
-    <!-- Platinum Metallic Gradient -->
-    <linearGradient id="platinum" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8e8e8e"/>
-      <stop offset="50%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#7a7a7a"/>
-    </linearGradient>
+  .subtitle {
+    font-family: Georgia, serif;
+    letter-spacing: 6px;
+    fill: #cfcfcf;
+    font-size: 14px;
+  }
+</style>
 
-    <!-- Shimmer Sweep -->
-    <linearGradient id="shine" x1="-1" y1="0" x2="0" y2="0">
-      <stop offset="0%" stop-color="transparent"/>
-      <stop offset="45%" stop-color="rgba(255,255,255,0.7)"/>
-      <stop offset="55%" stop-color="transparent"/>
-      <animate attributeName="x1" from="-1" to="2" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="x2" from="0" to="3" dur="4s" repeatCount="indefinite"/>
-    </linearGradient>
+<defs>
 
-    <!-- Mask for shimmer -->
-    <mask id="textMask">
-      <rect width="100%" height="100%" fill="black"/>
-      <text x="50%" y="52%"
-            text-anchor="middle"
-            font-family="Verdana"
-            font-size="75"
-            letter-spacing="4"
-            fill="white">
-        Rudra Pratap
-      </text>
-    </mask>
+  <!-- Deep Space -->
+  <linearGradient id="space" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#03030a"/>
+    <stop offset="50%" stop-color="#0b0b18"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
 
-  </defs>
+  <!-- Nebula Glow -->
+  <radialGradient id="nebula" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" stop-color="rgba(180,200,255,0.15)"/>
+    <stop offset="100%" stop-color="transparent"/>
+  </radialGradient>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bg)" />
+  <!-- Platinum Stroke -->
+  <linearGradient id="platinum" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#8a8a8a"/>
+    <stop offset="50%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#8a8a8a"/>
+  </linearGradient>
 
-  <!-- Ambient Glow -->
-  <circle cx="600" cy="140" r="220" fill="url(#glow)">
-    <animate attributeName="r" values="210;230;210" dur="6s" repeatCount="indefinite"/>
+  <!-- Shimmer -->
+  <linearGradient id="shine" x1="-1" y1="0" x2="0" y2="0">
+    <stop offset="0%" stop-color="transparent"/>
+    <stop offset="45%" stop-color="rgba(255,255,255,0.9)"/>
+    <stop offset="55%" stop-color="transparent"/>
+    <animate attributeName="x1" from="-1" to="2" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" from="0" to="3" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+
+  <mask id="textMask">
+    <rect width="100%" height="100%" fill="black"/>
+    <text x="50%" y="52%"
+          text-anchor="middle"
+          class="signature"
+          font-size="95"
+          fill="white">
+      Rudra Pratap
+    </text>
+  </mask>
+
+</defs>
+
+<!-- Background -->
+<rect width="100%" height="100%" fill="url(#space)" />
+
+<!-- Nebula -->
+<circle cx="600" cy="150" r="260" fill="url(#nebula)">
+  <animate attributeName="r" values="250;270;250" dur="14s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Stars -->
+<g class="stars" fill="white" opacity="0.4">
+  <circle cx="120" cy="10" r="1">
+    <animate attributeName="cy" values="10;310" dur="22s" repeatCount="indefinite"/>
   </circle>
+  <circle cx="600" cy="50" r="1.2">
+    <animate attributeName="cy" values="50;350" dur="26s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="30" r="1">
+    <animate attributeName="cy" values="30;330" dur="20s" repeatCount="indefinite"/>
+  </circle>
+</g>
 
-  <!-- Subtle Moving Particles -->
-  <g fill="#ffffff" opacity="0.05">
-    <circle cx="200" cy="60" r="2">
-      <animate attributeName="cy" values="60;200;60" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="900" cy="220" r="2">
-      <animate attributeName="cy" values="220;80;220" dur="14s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="400" cy="180" r="1.5">
-      <animate attributeName="cy" values="180;40;180" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1000" cy="100" r="1.8">
-      <animate attributeName="cy" values="100;240;100" dur="11s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+<!-- Signature Stroke Reveal -->
+<text x="50%" y="52%"
+      text-anchor="middle"
+      class="signature"
+      font-size="95"
+      fill="none"
+      stroke="url(#platinum)"
+      stroke-width="1.4"
+      stroke-dasharray="2000"
+      stroke-dashoffset="2000">
 
-  <!-- Stroke Reveal -->
-  <text x="50%" y="52%"
-        text-anchor="middle"
-        font-family="Verdana"
-        font-size="75"
-        letter-spacing="4"
-        fill="none"
-        stroke="url(#platinum)"
-        stroke-width="1.6"
-        stroke-dasharray="1600"
-        stroke-dashoffset="1600">
+  Rudra Pratap
 
-    Rudra Pratap
+  <animate attributeName="stroke-dashoffset"
+           from="2000"
+           to="0"
+           dur="4.5s"
+           fill="freeze" />
+</text>
 
-    <animate attributeName="stroke-dashoffset"
-             from="1600"
-             to="0"
-             dur="3.2s"
-             fill="freeze" />
-  </text>
+<!-- Shimmer Sweep -->
+<rect width="100%" height="100%" fill="url(#shine)" mask="url(#textMask)" />
 
-  <!-- Shimmer Overlay -->
-  <rect width="100%" height="100%"
-        fill="url(#shine)"
-        mask="url(#textMask)" />
-
-  <!-- Structured Subtitle -->
-  <text x="50%" y="76%"
-        text-anchor="middle"
-        font-family="Verdana"
-        font-size="16"
-        fill="#bfbfbf"
-        letter-spacing="3">
-        AI • FULL STACK • CLOUD • ENGINEER
-  </text>
+<!-- Subtitle -->
+<text x="50%" y="80%" text-anchor="middle" class="subtitle">
+  AI • FULL STACK • CLOUD ENGINEER
+</text>
 
 </svg>
