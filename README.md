@@ -2,87 +2,41 @@
 
 ![header](Trilokia.svg)
 
-<br>
-
 ![what i do](what_i_do.svg)
 
-<br>
+![divider](divider.svg)
+
+![stack](sec_stack.svg)
+
+![stack table](stack_table.svg)
 
 ![divider](divider.svg)
 
-<br>
-
-![stack header](sec_stack.svg)
-
-<br>
-
-| Layer | Technologies |
-|:---:|:---:|
-| **Languages** | Go · Node.js · TypeScript · Python · Rust · SwiftUI |
-| **Frontend** | React · Next.js |
-| **Infrastructure** | Docker · Kubernetes · Terraform |
-| **Cloud & Platform** | AWS · Firebase |
-| **AI & Intelligence** | NLP · LLM Pipelines · Inference Systems |
-| **Systems** | Microservices · Event-driven · Real-time · WebSockets |
-| **Delivery** | CI/CD · GitHub Actions · DevOps |
-
-<br>
-
-![divider](divider.svg)
-
-<br>
-
-![tech header](sec_tech.svg)
-
-<br>
+![technologies](sec_tech.svg)
 
 ![tech row 1](tech_row1.svg)
 
-<br>
-
 ![tech row 2](tech_row2.svg)
 
-<br>
+![divider](divider.svg)
+
+![how i work](sec_work.svg)
+
+![how i work detail](how_i_work.svg)
 
 ![divider](divider.svg)
 
-<br>
+![available](sec_avail.svg)
 
-![how i work header](sec_work.svg)
-
-<br>
-
-![how i work](how_i_work.svg)
-
-<br>
+![available detail](available.svg)
 
 ![divider](divider.svg)
 
-<br>
+![contact](sec_contact.svg)
 
-![available header](sec_avail.svg)
-
-<br>
-
-![available](available.svg)
-
-<br>
+![contact links](contact.svg)
 
 ![divider](divider.svg)
-
-<br>
-
-![contact header](sec_contact.svg)
-
-<br>
-
-![contact](contact.svg)
-
-<br>
-
-![divider](divider.svg)
-
-<br>
 
 ![footer](bottom_header.svg)
 
