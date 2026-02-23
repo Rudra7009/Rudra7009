@@ -1,4 +1,4 @@
-![header](trilokia.svg)
+![header](Trilokia.svg)
 
 <p align="center">
 Whatever I build, I build with clarity.  
