@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60">
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="60" fill="#0d1117"/>
+  <a href="https://portfolio.com">
+    <rect x="188" y="13" width="160" height="34" rx="4" fill="#0d1117" stroke="#4d8fd1" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="268" y="35" font-family="monospace" font-size="12" fill="#c8d8e8" text-anchor="middle" letter-spacing="2">PORTFOLIO</text>
+  </a>
+  <a href="https://linkedin.com">
+    <rect x="370" y="13" width="160" height="34" rx="4" fill="#0d1117" stroke="#4d8fd1" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="450" y="35" font-family="monospace" font-size="12" fill="#c8d8e8" text-anchor="middle" letter-spacing="2">LINKEDIN</text>
+  </a>
+  <a href="mailto:your@email.com">
+    <rect x="552" y="13" width="160" height="34" rx="4" fill="#0d1117" stroke="#4d8fd1" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="632" y="35" font-family="monospace" font-size="12" fill="#c8d8e8" text-anchor="middle" letter-spacing="2">EMAIL</text>
+  </a>
+</svg>
