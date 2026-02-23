@@ -1,13 +1,8 @@
 ![header](Trilokia.svg)
 
+
 ![typing](typing_intro.svg)
-
-<br>
-
-![divider](divider.svg)
-
 # Rudra Pratap
-
 I build systems that are structured before they are scaled.
 
 I am not interested in noise.
