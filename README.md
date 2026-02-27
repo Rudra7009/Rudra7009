@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](Header.svg)
+![header](Trilokia.svg)
 
 ![body](Body.svg)
 
